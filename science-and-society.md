@@ -1,0 +1,3 @@
+# Science & Society
+
+I’d like you to be able to respond to questions about science and how it works, at a level that would be appropriate in a conversation involving non-scientists.  As scientists, we should be ready to contribute a scientific perspective to topics that come up in everyday life.  Some examples: - Why do scientists never answer questions with certainty?  Is science different from religion?  Is astrology a science?  Is abortion murder? Are humans really causing the climate to change?  Are GMO crops a hazard to human health?  Should we vaccinate our children against diseases like polio and measles and diptheria? Should we have a six jaw of COVID-19?
