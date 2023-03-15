@@ -21,3 +21,4 @@
   * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
 * [Science & Society](science-and-society.md)
 * [Stats](stats.md)
+* [Sources](sources.md)

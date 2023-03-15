@@ -12,7 +12,7 @@ Neutral Theory & Niche-based alternatives & Null Models&#x20;
 
 Intermediate disturbance hypothesis
 
-keytone species&#x20;
+keystone species&#x20;
 
 alternative states
 
