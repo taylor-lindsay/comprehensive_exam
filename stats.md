@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dr. Forrester will ask me about some basic stats facts and my stats
-  specifically
+  Dr. Forrester will ask me about some basic stats facts and my proposed
+  statistical analyses.
 ---
 
 # Stats
