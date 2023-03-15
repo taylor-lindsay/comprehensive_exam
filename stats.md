@@ -1,3 +1,30 @@
+---
+description: >-
+  Dr. Forrester will ask me about some basic stats facts and my stats
+  specifically
+---
+
 # Stats
 
-I might ask you to explain the concepts underlying some of the analyses you are doing, at the level that they are described in basic statistics texts, e.g. sample independence, fixed and random effects, nested factors, interaction terms, and homoscedasticity.
+## Basic Stats Concepts&#x20;
+
+#### Sample Independence&#x20;
+
+#### Fixed Effects&#x20;
+
+#### Random Effects
+
+#### Nested Factors
+
+#### Interaction Terms
+
+#### Homoscedasticity&#x20;
+
+## My Statistical Analyses&#x20;
+
+
+
+
+
+
+
