@@ -1,4 +1,4 @@
-# Reef & Coral Biology
+# Coral Biology
 
 Prompts from committee:
 
