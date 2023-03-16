@@ -1,24 +1,24 @@
 # General Ecology
 
-Competition
+## Competition
 
-Niche Partitioning&#x20;
+## Niche Partitioning&#x20;
 
-Assembly Rules
+## Assembly Rules
 
-Island Biogeography&#x20;
+## Island Biogeography&#x20;
 
-Neutral Theory & Niche-based alternatives & Null Models&#x20;
+## Neutral Theory & Niche-based alternatives & Null Models&#x20;
 
-Intermediate disturbance hypothesis
+## Intermediate disturbance hypothesis
 
-keystone species&#x20;
+## keystone species&#x20;
 
-alternative states
+## alternative states
 
-competitive exclusion
+## competitive exclusion
 
-history on coral reefs about them&#x20;
+
 
 
 

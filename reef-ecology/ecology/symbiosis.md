@@ -1,10 +1,16 @@
 # Symbiosis
 
-the different kinds of symbiosis on coral reefs,&#x20;
+## Types of symbiosis on reefs&#x20;
 
 
 
-Coral - Symbiodiniacea&#x20;
+## Symbiodiniacea
+
+### Species/ taxonomy
+
+### Variation with depth&#x20;
+
+
 
 
 

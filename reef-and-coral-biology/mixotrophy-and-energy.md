@@ -1,2 +1,7 @@
 # Mixotrophy & Energy
 
+## Mixotrophy in Corals
+
+define & describe in detail&#x20;
+
+## Energy flow & Usage
