@@ -8,7 +8,7 @@ description: Background Information & Description
 
 This Gitbook is designed to be a study guide and reference for my PhD Comprehensive Exam at the University of Rhode Island. View the gitbook here:&#x20;
 
-[https://taylor-lindsay.gitbook.io/tl-comps/reef-ecology](https://taylor-lindsay.gitbook.io/tl-comps/reef-ecology)
+{% embed url="https://taylor-lindsay.gitbook.io/tl-comps" %}
 
 ### Committee Members
 

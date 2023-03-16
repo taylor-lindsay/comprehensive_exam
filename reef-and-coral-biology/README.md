@@ -1,4 +1,4 @@
-# Coral Biology
+# Basic Coral Biology
 
 Prompts from committee:
 

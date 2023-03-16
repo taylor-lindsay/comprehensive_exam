@@ -4,32 +4,32 @@
 
 ## Coral Biology
 
-* [Basic Coral Biology](coral-biology/basic-coral-biology.md)
+* [Basic Coral Biology](reef-and-coral-biology/README.md)
 * [Growth & Reproduction](reef-and-coral-biology/growth-and-reproduction.md)
-* [Reef Structure](coral-biology/reef-structure.md)
-* [Depth Gradients](coral-biology/depth-gradients.md)
+* [Reef Structure](reef-ecology/reef-structure/README.md)
+* [Depth Gradients](reef-ecology/reef-structure/depth-gradients.md)
 * [Morphology](reef-and-coral-biology/morphology.md)
 * [Physiology](reef-and-coral-biology/physiology.md)
-* [Food Webs](coral-biology/food-webs.md)
-* [Symbiosis](coral-biology/symbiosis.md)
-* [Reef Mortality](coral-biology/reef-mortality.md)
-* [Climate Change](coral-biology/climate-change.md)
+* [Food Webs](reef-ecology/ecology/food-webs.md)
+* [Symbiosis](reef-ecology/ecology/symbiosis.md)
+* [Reef Mortality](reef-ecology/climate-change/reef-mortality.md)
+* [Climate Change](reef-ecology/climate-change/README.md)
 * [Mixotrophy & Energy](reef-and-coral-biology/mixotrophy-and-energy.md)
 
 ## Ecology & Evolution
 
-* [Evolution & Plasticity](ecology-and-evolution/evolution-and-plasticity.md)
-* [General Ecology](ecology-and-evolution/general-ecology.md)
-* [Cryptic Species](ecology-and-evolution/cryptic-species.md)
+* [Evolution & Plasticity](evolution-and-plasticity/README.md)
+* [General Ecology](general-ecology.md)
+* [Cryptic Species](evolution-and-plasticity/cryptic-species.md)
 
 ## Isotopes
 
-* [Isotopes Basics](isotopes/isotopes-basics.md)
+* [Isotopes Basics](isotopes/README.md)
 * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
 * [CSIA](isotopes/csia.md)
 
 ## Science
 
-* [Stats](science/stats.md)
-* [Science & Society](science/science-and-society.md)
+* [Stats](stats.md)
+* [Science & Society](science-and-society.md)
 * [Sources](science/sources.md)
