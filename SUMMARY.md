@@ -1,26 +1,35 @@
 # Table of contents
 
-* [Page 2](README.md)
-* [Intro](<README (1).md>)
-* [Page 1](page-1.md)
-* [General Ecology](general-ecology.md)
-* [Evolution & Plasticity](evolution-and-plasticity/README.md)
-  * [Cryptic Species](evolution-and-plasticity/cryptic-species.md)
-* [Reef Structure](reef-ecology/reef-structure/README.md)
-  * [Depth Gradients](reef-ecology/reef-structure/depth-gradients.md)
-* [Reef Ecology](reef-ecology/README.md)
-  * [Food Webs](reef-ecology/ecology/food-webs.md)
-  * [Symbiosis](reef-ecology/ecology/symbiosis.md)
-  * [Reef Mortality](reef-ecology/climate-change/reef-mortality.md)
-  * [Climate Change](reef-ecology/climate-change/README.md)
-* [Coral Biology](reef-and-coral-biology/README.md)
-  * [Growth & Reproduction](reef-and-coral-biology/growth-and-reproduction.md)
-  * [Physiology](reef-and-coral-biology/physiology.md)
-  * [Morphology](reef-and-coral-biology/morphology.md)
-  * [Mixotrophy & Energy](reef-and-coral-biology/mixotrophy-and-energy.md)
-* [Isotopes](isotopes/README.md)
-  * [CSIA](isotopes/csia.md)
-  * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
-* [Science & Society](science-and-society.md)
-* [Stats](stats.md)
-* [Sources](sources.md)
+* [Intro](README.md)
+
+## Coral Biology
+
+* [Basic Coral Biology](coral-biology/basic-coral-biology.md)
+* [Growth & Reproduction](reef-and-coral-biology/growth-and-reproduction.md)
+* [Reef Structure](coral-biology/reef-structure.md)
+* [Depth Gradients](coral-biology/depth-gradients.md)
+* [Morphology](reef-and-coral-biology/morphology.md)
+* [Physiology](reef-and-coral-biology/physiology.md)
+* [Food Webs](coral-biology/food-webs.md)
+* [Symbiosis](coral-biology/symbiosis.md)
+* [Reef Mortality](coral-biology/reef-mortality.md)
+* [Climate Change](coral-biology/climate-change.md)
+* [Mixotrophy & Energy](reef-and-coral-biology/mixotrophy-and-energy.md)
+
+## Ecology & Evolution
+
+* [Evolution & Plasticity](ecology-and-evolution/evolution-and-plasticity.md)
+* [General Ecology](ecology-and-evolution/general-ecology.md)
+* [Cryptic Species](ecology-and-evolution/cryptic-species.md)
+
+## Isotopes
+
+* [Isotopes Basics](isotopes/isotopes-basics.md)
+* [Fractionation in Corals](isotopes/fractionation-in-corals.md)
+* [CSIA](isotopes/csia.md)
+
+## Science
+
+* [Stats](science/stats.md)
+* [Science & Society](science/science-and-society.md)
+* [Sources](science/sources.md)
