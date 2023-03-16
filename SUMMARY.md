@@ -26,6 +26,7 @@
 
 * [Isotopes Basics](isotopes/README.md)
 * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
+* [Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
 * [CSIA](isotopes/csia.md)
 
 ## Science
