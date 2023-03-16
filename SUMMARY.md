@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Page 2](README.md)
+* [Intro](<README (1).md>)
 * [Page 1](page-1.md)
 * [General Ecology](general-ecology.md)
 * [Evolution & Plasticity](evolution-and-plasticity/README.md)
