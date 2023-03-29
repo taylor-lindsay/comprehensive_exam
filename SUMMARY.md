@@ -24,11 +24,11 @@
 
 ## Isotopes
 
-* [Isotope Basics](isotopes/isotope-basics/README.md)
+* [Isotope Basics](isotopes/README.md)
   * [Instrumentation & methodology](isotopes/isotope-basics/instrumentation-and-methodology.md)
 * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
 * [Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
-* [CSIA](isotopes/csia/README.md)
+* [CSIA](isotopes/csia.md)
   * [N: Trophic vs. Source](isotopes/csia/n-trophic-vs.-source.md)
   * [C: Essential vs. Nonessential](isotopes/csia/c-essential-vs.-nonessential.md)
 
