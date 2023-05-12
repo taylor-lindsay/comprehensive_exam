@@ -73,8 +73,12 @@ N - Protein Cycling&#x20;
   * ∆15N highest in Urea producers (mammals) > Uric acid (insects) > Ammonia (fish) > Guanine (arachnids) > Amino acids (babies)
   * Urea excretion is complex in mammals, lots of opportunity for fractionation&#x20;
 * **Nutritional Status**&#x20;
-  * starving animal starts to catabolize its on protien stores&#x20;
+  * starving animal starts to catabolize its own endogenous protein stores&#x20;
   * Catabolism - the breakdown of body molecules to form simpler ones&#x20;
   * as animal loses weight its ∆15N decreases
-  *
+
+The Omnivore's Dilemma&#x20;
+
+* Perfect Mixing - 50/50 split&#x20;
+* Perfect routing -&#x20;
 

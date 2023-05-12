@@ -29,11 +29,12 @@
   * [Environmental O & H](isotopes/isotope-basics/environmental-o-and-h.md)
   * [Environmental C and N](isotopes/isotope-basics/environmental-c-and-n.md)
   * [Organismal Isotopes](isotopes/isotope-basics/organismal-isotopes.md)
+  * [🧀 Lipids](isotopes/isotope-basics/lipids.md)
 * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
 * [Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
 * [CSIA](isotopes/csia.md)
-  * [N: Trophic vs. Source](isotopes/csia/n-trophic-vs.-source.md)
   * [C: Essential vs. Nonessential](isotopes/csia/c-essential-vs.-nonessential.md)
+  * [N: Trophic vs. Source](isotopes/csia/n-trophic-vs.-source.md)
 
 ## Science
 
