@@ -28,6 +28,7 @@
   * [Instrumentation & methodology](isotopes/isotope-basics/instrumentation-and-methodology.md)
   * [Environmental O & H](isotopes/isotope-basics/environmental-o-and-h.md)
   * [Environmental C and N](isotopes/isotope-basics/environmental-c-and-n.md)
+  * [Organismal Isotopes](isotopes/isotope-basics/organismal-isotopes.md)
 * [Fractionation in Corals](isotopes/fractionation-in-corals.md)
 * [Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
 * [CSIA](isotopes/csia.md)
