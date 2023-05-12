@@ -80,5 +80,5 @@ N - Protein Cycling&#x20;
 The Omnivore's Dilemma&#x20;
 
 * Perfect Mixing - 50/50 split&#x20;
-* Perfect routing -&#x20;
+* Perfect routing - 100% from one source&#x20;
 

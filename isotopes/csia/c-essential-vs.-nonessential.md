@@ -16,13 +16,14 @@ Essential amino acids (EAAs)
 * Can not be synthesized by most metazoans, so they must come from the diet
 * there is very low fractionation of EAAs between trophic positions&#x20;
 * The ∆C of EAAs will reflect the base source of C (e.g. zooplankton, algae, etc.)&#x20;
-*
+* Can be used to assess pure routing of diet to consumer&#x20;
 
 Nonessential amino acids (NAAs)&#x20;
 
 * can be synthesized by metazoans by breaking up other AAs and restructuring them&#x20;
 * synthesized de novo from a bulk carbon pool&#x20;
 * huge amount of variability in NAAs&#x20;
+* Can be used to represent pure mixing of diet into consumer&#x20;
 
 Amino Acid C isotope fingerprinting&#x20;
 
