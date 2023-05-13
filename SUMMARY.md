@@ -42,4 +42,4 @@
 
 * [Science & Society](science-and-society.md)
 * [Stats](stats.md)
-* [Sources](science/sources.md)
+* [Glossary](science/glossary.md)
