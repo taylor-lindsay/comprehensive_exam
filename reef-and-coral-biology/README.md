@@ -1,5 +1,13 @@
 # Basic Coral Biology
 
+## Cnidaria
+
+* Cnidarians have two tissue layers separated by mesoglea, a single hole that functions as the mouth and anus, leading to gastrovascular cavity (incomplete gut)&#x20;
+* The mouth is surrounded by tentacles capable of ingesting prey covered with nematocysts, produced by the specialized cells cnidocytes&#x20;
+* Medusa or polyp form&#x20;
+* Four classes: Hydrozoa (colonial hydroids & siphonophores), Scyphozoa (jellyfish), Anthozoa (corals, sea fans, anemones), Cubozoa (box jellies)&#x20;
+* Radial symmetry&#x20;
+
 ## Anatomy of Coral&#x20;
 
 <figure><img src="../.gitbook/assets/SP_CCRStructFig01.jpeg" alt=""><figcaption></figcaption></figure>
@@ -33,3 +41,6 @@ Corals consist of three main parts, collectively referred to as the holobiont:&#
 
 
 
+Sources:&#x20;
+
+1. marine life book&#x20;
