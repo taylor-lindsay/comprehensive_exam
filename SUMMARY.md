@@ -1,45 +1,56 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Basic Biology Review](introduction/basic-biology-review.md)
-  * [Basic Genetics Review](introduction/basic-genetics-review.md)
+* [Table of Contents](table-of-contents.md)
 
-## Coral Biology
+## 1. Basics
 
-* [Basic Coral Biology](reef-and-coral-biology/README.md)
-* [Reef Structure](reef-ecology/reef-structure/README.md)
-* [Growth & Reproduction](reef-and-coral-biology/growth-and-reproduction.md)
-* [Food Webs](reef-ecology/ecology/food-webs.md)
-* [Depth Gradients](reef-ecology/reef-structure/depth-gradients.md)
-* [Morphology](reef-and-coral-biology/morphology.md)
-* [Physiology](reef-and-coral-biology/physiology.md)
-* [Mixotrophy & Energy](reef-and-coral-biology/mixotrophy-and-energy.md)
-* [Symbiosis](reef-ecology/ecology/symbiosis.md)
-* [Reef Mortality](reef-ecology/climate-change/reef-mortality.md)
-* [Climate Change](reef-ecology/climate-change/README.md)
+* [1.1 Basic Biology Review](1.-basics/1.1-basic-biology-review.md)
+* [1.2 Basic Genetics Review](1.-basics/1.2-basic-genetics-review.md)
 
-## Ecology & Evolution
+## 2. Coral Biology
 
-* [Evolution & Plasticity](evolution-and-plasticity/README.md)
-* [General Ecology](general-ecology.md)
-* [Cryptic Species](evolution-and-plasticity/cryptic-species.md)
+* [2.1 Basic Coral Biology](2.-coral-biology/2.1-basic-coral-biology/README.md)
+  * [2.1a Food Webs](2.-coral-biology/2.1-basic-coral-biology/2.1a-food-webs.md)
+* [2.2 Reef Structure](2.-coral-biology/2.2-reef-structure/README.md)
+  * [2.2a Depth Gradients](2.-coral-biology/2.2-reef-structure/2.2a-depth-gradients.md)
+  * [2.2b Physics of Light](2.-coral-biology/2.2-reef-structure/2.2b-physics-of-light.md)
+* [2.3 Growth & Reproduction](2.-coral-biology/2.3-growth-and-reproduction.md)
+* [2.4 Morphology](2.-coral-biology/2.4-morphology.md)
+* [2.5 Physiology](2.-coral-biology/2.5-physiology.md)
+* [2.6 Mixotrophy & Energy](2.-coral-biology/2.6-mixotrophy-and-energy.md)
+* [2.7 Symbiosis](2.-coral-biology/2.7-symbiosis.md)
+* [2.8 Reef Mortality](2.-coral-biology/2.8-reef-mortality/README.md)
+  * [2.8a Conservation](2.-coral-biology/2.8-reef-mortality/2.8a-conservation.md)
 
-## Isotopes
+## 3. Ecology & Evolution
 
-* [Isotope Basics](isotopes/README.md)
-  * [Instrumentation & methodology](isotopes/isotope-basics/instrumentation-and-methodology.md)
-  * [Environmental O & H](isotopes/isotope-basics/environmental-o-and-h.md)
-  * [Environmental C and N](isotopes/isotope-basics/environmental-c-and-n.md)
-  * [Organismal Isotopes](isotopes/isotope-basics/organismal-isotopes.md)
-  * [Fractionation in Corals](isotopes/isotope-basics/fractionation-in-corals.md)
-  * [🧀 Lipids](isotopes/isotope-basics/lipids.md)
-* [Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
-* [CSIA](isotopes/csia.md)
-  * [C: Essential vs. Nonessential](isotopes/csia/c-essential-vs.-nonessential.md)
-  * [N: Trophic vs. Source](isotopes/csia/n-trophic-vs.-source.md)
+* [3.1 Evolution & Plasticity](3.-ecology-and-evolution/3.1-evolution-and-plasticity.md)
+* [3.2 General Ecology](3.-ecology-and-evolution/3.2-general-ecology.md)
+* [3.3 Cryptic Species](3.-ecology-and-evolution/3.3-cryptic-species.md)
 
-## Science
+## 4. Isotopes
 
-* [Science & Society](science-and-society.md)
-* [Stats](stats.md)
-* [Glossary](science/glossary.md)
+* [4.1 Isotope Basics](4.-isotopes/4.1-isotope-basics/README.md)
+  * [4.1a Instrumentation & methodology](4.-isotopes/4.1-isotope-basics/4.1a-instrumentation-and-methodology.md)
+  * [4.1b Environmental O & H](4.-isotopes/4.1-isotope-basics/4.1b-environmental-o-and-h.md)
+  * [4.1c Environmental C and N](4.-isotopes/4.1-isotope-basics/4.1c-environmental-c-and-n.md)
+  * [4.1d Organismal Isotopes](4.-isotopes/4.1-isotope-basics/4.1d-organismal-isotopes.md)
+  * [🧀 Lipids](4.-isotopes/4.1-isotope-basics/lipids.md)
+* [4.2 Fractionation in Corals](4.-isotopes/4.2-fractionation-in-corals.md)
+* [4.3 Trophic Niche Analysis](4.-isotopes/4.3-trophic-niche-analysis.md)
+* [4.4 CSIA](4.-isotopes/4.4-csia/README.md)
+  * [4.4a C: Essential vs. Nonessential](4.-isotopes/4.4-csia/4.4a-c-essential-vs.-nonessential.md)
+  * [4.4b N: Trophic vs. Source](4.-isotopes/4.4-csia/4.4b-n-trophic-vs.-source.md)
+
+## 5. Other&#x20;
+
+* [5.1 Science & Society](5.-other/5.1-science-and-society.md)
+* [5.2 Stats](5.-other/5.2-stats.md)
+
+## 6. Summary & Resources
+
+* [6.1 Glossary](6.-summary-and-resources/6.1-glossary.md)
+* [6.2 Resources](6.-summary-and-resources/6.2-resources.md)
+* [6.3 Questions From Exam](6.-summary-and-resources/6.3-questions-from-exam.md)
+* [6.4 Recommendations & Reflections](6.-summary-and-resources/6.4-recommendations-and-reflections.md)
