@@ -2,7 +2,7 @@
 description: Questions from Dr. Forrester
 ---
 
-# Science & Society
+# 5.1 Science & Society
 
 I’d like you to be able to respond to questions about science and how it works, at a level that would be appropriate in a conversation involving non-scientists.  As scientists, we should be ready to contribute a scientific perspective to topics that come up in everyday life. &#x20;
 

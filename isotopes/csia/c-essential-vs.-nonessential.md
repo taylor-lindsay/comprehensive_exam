@@ -2,7 +2,7 @@
 description: '15'
 ---
 
-# C: Essential vs. Nonessential
+# 4.4a C: Essential vs. Nonessential
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-12 at 11.17.02 AM.png" alt=""><figcaption></figcaption></figure>
 

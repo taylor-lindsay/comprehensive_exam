@@ -2,7 +2,7 @@
 description: '16'
 ---
 
-# N: Trophic vs. Source
+# 4.4b N: Trophic vs. Source
 
 Trophic amino acids&#x20;
 

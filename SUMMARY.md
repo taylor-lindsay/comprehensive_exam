@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Table of Contents](table-of-contents.md)
+* [Tasklist](tasklist.md)
 
 ## 1. Basics
 
-* [1.1 Basic Biology Review](1.-basics/1.1-basic-biology-review.md)
-* [1.2 Basic Genetics Review](1.-basics/1.2-basic-genetics-review.md)
+* [1.1 Basic Biology Review](introduction/basic-biology-review.md)
+* [1.2 Basic Genetics Review](introduction/basic-genetics-review.md)
 
 ## 2. Coral Biology
 
@@ -25,28 +25,28 @@
 
 ## 3. Ecology & Evolution
 
-* [3.1 Evolution & Plasticity](3.-ecology-and-evolution/3.1-evolution-and-plasticity.md)
-* [3.2 General Ecology](3.-ecology-and-evolution/3.2-general-ecology.md)
-* [3.3 Cryptic Species](3.-ecology-and-evolution/3.3-cryptic-species.md)
+* [3.1 Evolution & Plasticity](evolution-and-plasticity/README.md)
+* [3.2 General Ecology](general-ecology.md)
+* [3.3 Cryptic Species](evolution-and-plasticity/cryptic-species.md)
 
 ## 4. Isotopes
 
-* [4.1 Isotope Basics](4.-isotopes/4.1-isotope-basics/README.md)
-  * [4.1a Instrumentation & methodology](4.-isotopes/4.1-isotope-basics/4.1a-instrumentation-and-methodology.md)
-  * [4.1b Environmental O & H](4.-isotopes/4.1-isotope-basics/4.1b-environmental-o-and-h.md)
-  * [4.1c Environmental C and N](4.-isotopes/4.1-isotope-basics/4.1c-environmental-c-and-n.md)
-  * [4.1d Organismal Isotopes](4.-isotopes/4.1-isotope-basics/4.1d-organismal-isotopes.md)
-  * [🧀 Lipids](4.-isotopes/4.1-isotope-basics/lipids.md)
-* [4.2 Fractionation in Corals](4.-isotopes/4.2-fractionation-in-corals.md)
-* [4.3 Trophic Niche Analysis](4.-isotopes/4.3-trophic-niche-analysis.md)
-* [4.4 CSIA](4.-isotopes/4.4-csia/README.md)
-  * [4.4a C: Essential vs. Nonessential](4.-isotopes/4.4-csia/4.4a-c-essential-vs.-nonessential.md)
-  * [4.4b N: Trophic vs. Source](4.-isotopes/4.4-csia/4.4b-n-trophic-vs.-source.md)
+* [4.1 Isotope Basics](isotopes/README.md)
+  * [4.1a Instrumentation & methodology](isotopes/isotope-basics/instrumentation-and-methodology.md)
+  * [4.1b Environmental O & H](isotopes/isotope-basics/environmental-o-and-h.md)
+  * [4.1c Environmental C and N](isotopes/isotope-basics/environmental-c-and-n.md)
+  * [4.1d Organismal Isotopes](isotopes/isotope-basics/organismal-isotopes.md)
+  * [🧀 Lipids](isotopes/isotope-basics/lipids.md)
+* [4.2 Fractionation in Corals](isotopes/isotope-basics/fractionation-in-corals.md)
+* [4.3 Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
+* [4.4 CSIA](isotopes/csia.md)
+  * [4.4a C: Essential vs. Nonessential](isotopes/csia/c-essential-vs.-nonessential.md)
+  * [4.4b N: Trophic vs. Source](isotopes/csia/n-trophic-vs.-source.md)
 
 ## 5. Other&#x20;
 
-* [5.1 Science & Society](5.-other/5.1-science-and-society.md)
-* [5.2 Stats](5.-other/5.2-stats.md)
+* [5.1 Science & Society](science-and-society.md)
+* [5.2 Stats](stats.md)
 
 ## 6. Summary & Resources
 

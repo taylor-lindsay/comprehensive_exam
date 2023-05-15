@@ -22,7 +22,7 @@
 * macroalgal competition is high in higher latitudes&#x20;
 * Patterns in diversity
   * higher diversity in the indo-pacific (700 species) than Atlantic (175)&#x20;
-  * high diversity created by uniform and predictable conditions on tropical reefs promoted fast specialization (contradicts [intermediate disturbance hypothesis](../../3.-ecology-and-evolution/3.2-general-ecology.md))
+  * high diversity created by uniform and predictable conditions on tropical reefs promoted fast specialization (contradicts [intermediate disturbance hypothesis](../../general-ecology.md))
 
 #### Temperate corals&#x20;
 

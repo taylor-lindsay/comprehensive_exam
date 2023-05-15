@@ -20,7 +20,7 @@ description: Most isotope info sourced from URI OCG 550 with Kelton McMahon
   * fractionation highest for light elements&#x20;
 *   Rayleigh fractionation - products are isolated from reactants immediately after formation, leading to characteristic isotope pattern of evolving phases
 
-    <figure><img src="../../.gitbook/assets/Screen Shot 2023-03-29 at 5.27.56 PM.png" alt=""><figcaption><p>As you increase up a mountain slope, the delta18O in clouds becomes increasingly negative. the 18O is being captured in the water / condensation and clouds are getting isotopically lighter. the gradient that is created is called rayleigh fractionation </p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screen Shot 2023-03-29 at 5.27.56 PM.png" alt=""><figcaption><p>As you increase up a mountain slope, the delta18O in clouds becomes increasingly negative. the 18O is being captured in the water / condensation and clouds are getting isotopically lighter. the gradient that is created is called rayleigh fractionation </p></figcaption></figure>
 * **Conservation of mass** - reactant and product must preserve original epsilon when 100% reacted&#x20;
 
 **Most important Isotopes (for me)** - O and H are typically associated with environmental fractionation and gradients, while N and C are more important for biological processes&#x20;
@@ -32,11 +32,11 @@ description: Most isotope info sourced from URI OCG 550 with Kelton McMahon
 
 ### Notation
 
-* **Delta Notation** - Allows us to compare between samples by standardizing them to international standards. <img src="../../.gitbook/assets/Screen Shot 2023-03-29 at 5.08.43 PM.png" alt="" data-size="line"> where R is the heavy/light isotope ratio, units are permil ‰.&#x20;
+* **Delta Notation** - Allows us to compare between samples by standardizing them to international standards. <img src="../.gitbook/assets/Screen Shot 2023-03-29 at 5.08.43 PM.png" alt="" data-size="line"> where R is the heavy/light isotope ratio, units are permil ‰.&#x20;
   * positive values = enrichment&#x20;
   * negative values = depletion&#x20;
-* **Big Delta Notation** - Isotope separation <img src="../../.gitbook/assets/Screen Shot 2023-03-29 at 5.17.12 PM.png" alt="" data-size="line">
-* **Epsilon** - Isotope Enrichment <img src="../../.gitbook/assets/Screen Shot 2023-03-29 at 5.19.19 PM.png" alt="" data-size="line">
-* **Alpha notation** - Isotope Fractionation <img src="../../.gitbook/assets/Screen Shot 2023-03-29 at 5.16.24 PM.png" alt="" data-size="line">
+* **Big Delta Notation** - Isotope separation <img src="../.gitbook/assets/Screen Shot 2023-03-29 at 5.17.12 PM.png" alt="" data-size="line">
+* **Epsilon** - Isotope Enrichment <img src="../.gitbook/assets/Screen Shot 2023-03-29 at 5.19.19 PM.png" alt="" data-size="line">
+* **Alpha notation** - Isotope Fractionation <img src="../.gitbook/assets/Screen Shot 2023-03-29 at 5.16.24 PM.png" alt="" data-size="line">
   * very temperature dependent&#x20;
 * Turnover time - T&#x20;

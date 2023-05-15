@@ -1,4 +1,4 @@
-# Basic Genetics Review
+# 1.2 Basic Genetics Review
 
 #### Genetics methods
 

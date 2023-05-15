@@ -2,7 +2,7 @@
 description: '13'
 ---
 
-# Trophic Niche Analysis
+# 4.3 Trophic Niche Analysis
 
 ## Trophic position
 

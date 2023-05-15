@@ -24,7 +24,7 @@ Uses&#x20;
 
 * **Generalists vs. specialists** - generalists may change between C3 and C4 sources depending on availability & season, while specialists only eat certain plants that are all C3 or C4&#x20;
 * **Habitat use** - ex. phytoplankton have lower δ13C than benthic algae, so you can use this to assess inshore (benthic) vs offshore (plankton) feeding&#x20;
-* [Trophic position ](../4.4-csia/4.4b-n-trophic-vs.-source.md)
+* [Trophic position ](../csia/n-trophic-vs.-source.md)
 
 ## Isotopic Incorporation (11)
 
