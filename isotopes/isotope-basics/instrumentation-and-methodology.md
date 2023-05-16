@@ -41,3 +41,4 @@
 
 ## Acid Hydrolysis&#x20;
 
+Read McMahon et al. 2011: Briefly, each sample underwent an acid-catalyzed esterification followed by acylation with trifluoroacetic anhydride and dichloromethane under an atmosphere of dinitrogen (N2).

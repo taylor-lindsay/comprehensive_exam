@@ -7,6 +7,7 @@
 
 * [1.1 Basic Biology Review](introduction/basic-biology-review.md)
 * [1.2 Basic Genetics Review](introduction/basic-genetics-review.md)
+* [1.3 Light & Photosynthesis](1.-basics/1.3-light-and-photosynthesis.md)
 
 ## 2. Coral Biology
 
@@ -14,7 +15,6 @@
   * [2.1a Food Webs](2.-coral-biology/2.1-basic-coral-biology/2.1a-food-webs.md)
 * [2.2 Reef Structure](2.-coral-biology/2.2-reef-structure/README.md)
   * [2.2a Depth Gradients](2.-coral-biology/2.2-reef-structure/2.2a-depth-gradients.md)
-  * [2.2b Physics of Light](2.-coral-biology/2.2-reef-structure/2.2b-physics-of-light.md)
 * [2.3 Growth & Reproduction](2.-coral-biology/2.3-growth-and-reproduction.md)
 * [2.4 Morphology](2.-coral-biology/2.4-morphology.md)
 * [2.5 Physiology](2.-coral-biology/2.5-physiology.md)
@@ -27,7 +27,8 @@
 
 * [3.1 Evolution & Plasticity](evolution-and-plasticity/README.md)
 * [3.2 General Ecology](general-ecology.md)
-* [3.3 Cryptic Species](evolution-and-plasticity/cryptic-species.md)
+* [3.3 Speciation](3.-ecology-and-evolution/3.3-speciation.md)
+* [3.4 Cryptic Species](3.-ecology-and-evolution/3.4-cryptic-species.md)
 
 ## 4. Isotopes
 
@@ -36,7 +37,7 @@
   * [4.1b Environmental O & H](isotopes/isotope-basics/environmental-o-and-h.md)
   * [4.1c Environmental C and N](isotopes/isotope-basics/environmental-c-and-n.md)
   * [4.1d Organismal Isotopes](isotopes/isotope-basics/organismal-isotopes.md)
-  * [🧀 Lipids](isotopes/isotope-basics/lipids.md)
+  * [4.1e Lipids](4.-isotopes/4.1-isotope-basics/4.1e-lipids.md)
 * [4.2 Fractionation in Corals](isotopes/isotope-basics/fractionation-in-corals.md)
 * [4.3 Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
 * [4.4 CSIA](isotopes/csia.md)

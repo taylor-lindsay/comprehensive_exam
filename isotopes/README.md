@@ -40,3 +40,7 @@ description: Most isotope info sourced from URI OCG 550 with Kelton McMahon
 * **Alpha notation** - Isotope Fractionation <img src="../.gitbook/assets/Screen Shot 2023-03-29 at 5.16.24 PM.png" alt="" data-size="line">
   * very temperature dependent&#x20;
 * Turnover time - T&#x20;
+
+## Papers that summarize the use of Isotopes
+
+####

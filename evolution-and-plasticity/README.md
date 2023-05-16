@@ -19,8 +19,6 @@ Mutation - random change in nucleic acid&#x20;
 
 Natural Selection - organisms that are more adapted to their environment are more likely to survive and pass on the genes that aided in their success.&#x20;
 
-
-
 ## Evolution Definitions
 
 Speciation -  reproductive isolation leads to independent species&#x20;
@@ -51,4 +49,20 @@ Hardy-Weinberg Equilibrium
 * determines stable-state genotype ratios&#x20;
 * No mechanisms of evolution are at play&#x20;
 * serves as a baseline for genetics&#x20;
+
+Neutral theory of Molecular evolution&#x20;
+
+* Historical theory of selectionism
+  * Detrimental mutation -> negative selection -> mutation not seen
+  * Beneficial mutation -> positive selection -> Mutation seen&#x20;
+  * Classical school of thought - assume that there is a single predominant most fit gene, and that if a new gene is more beneficial it will be quickly fixed by natural selection&#x20;
+  * Balance school of thought - appreciate amount of polymorphism in gene pool, maintained actively by natural selection&#x20;
+* when we started doing molecular work, we saw that polymorphism was way more common than expected
+* neutral mutation -> no selection (no fitness change) -> mutation may be seen (genetic drift, stochastic)&#x20;
+
+#### Molecular clock
+
+* neutral mutations accumulate at a constant rate over time&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-15 at 9.17.44 AM.png" alt=""><figcaption></figcaption></figure>
 
