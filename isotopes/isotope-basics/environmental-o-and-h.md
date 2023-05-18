@@ -23,3 +23,10 @@ Isoscape Uses:&#x20;
 * Archives of past climate / paleo-climate
 * Tracing origins of water&#x20;
 * Trace water-rock reactions (like hydrothermal vents)&#x20;
+
+## References
+
+#### <mark style="color:purple;">Gat 1996</mark>
+
+Summary of environmental fractionation, mostly of soil and atmosphere&#x20;
+

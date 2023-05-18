@@ -16,4 +16,3 @@ Nitrogen&#x20;
 * δ15N increases with depth in ocean &#x20;
 * Denitrification drives really high δ15N values in areas of very high productivity&#x20;
 * N can be used as a land use tracer (manure, sewage, fertilizer) &#x20;
-*

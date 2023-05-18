@@ -44,4 +44,3 @@ Microbial N&#x20;
 SumV
 
 * degree of microbial working of organic matter&#x20;
-*

@@ -13,8 +13,7 @@
 
 * [2.1 Basic Coral Biology](2.-coral-biology/2.1-basic-coral-biology/README.md)
   * [2.1a Food Webs](2.-coral-biology/2.1-basic-coral-biology/2.1a-food-webs.md)
-* [2.2 Reef Structure](2.-coral-biology/2.2-reef-structure/README.md)
-  * [2.2a Depth Gradients](2.-coral-biology/2.2-reef-structure/2.2a-depth-gradients.md)
+* [2.2 Reef Structure](2.-coral-biology/2.2-reef-structure.md)
 * [2.3 Growth & Reproduction](2.-coral-biology/2.3-growth-and-reproduction.md)
 * [2.4 Morphology](2.-coral-biology/2.4-morphology.md)
 * [2.5 Physiology](2.-coral-biology/2.5-physiology.md)
@@ -27,7 +26,7 @@
 
 * [3.1 Evolution & Plasticity](evolution-and-plasticity/README.md)
 * [3.2 General Ecology](general-ecology.md)
-* [3.3 Speciation](3.-ecology-and-evolution/3.3-speciation.md)
+* [3.3 Species](3.-ecology-and-evolution/3.3-species.md)
 * [3.4 Cryptic Species](3.-ecology-and-evolution/3.4-cryptic-species.md)
 
 ## 4. Isotopes
@@ -48,6 +47,7 @@
 
 * [5.1 Science & Society](science-and-society.md)
 * [5.2 Stats](stats.md)
+* [5.3 Practice Questions](5.-other/5.3-practice-questions.md)
 
 ## 6. Summary & Resources
 

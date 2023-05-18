@@ -38,9 +38,9 @@ Acclimation - when an organism undergoes physiological, morphological or biochem
 
 Fitness - reproductive potential&#x20;
 
-Plasticity
+Plasticity - the adaptability of an organism to changes in its environment or differences between its various habitats&#x20;
 
-Specialization&#x20;
+Specialization - the adaptation of an organ or part to serve a special function or to suit a particular way of life
 
 #### Theories & Effects
 

@@ -31,27 +31,27 @@
 
 #### Glycolysis
 
-<figure><img src="https://cdn.kastatic.org/ka-perseus-images/3ac5f05c70a76473139a0abb96318146af528f48.png" alt="" width="188"><figcaption></figcaption></figure>
-
 * glucose is converted into pyruvate&#x20;
 * Net yield +2 ATP&#x20;
 * pyruvate converted to acetyl CoA&#x20;
 
-#### Krebs Cycle / Citric acid&#x20;
+<figure><img src="https://cdn.kastatic.org/ka-perseus-images/3ac5f05c70a76473139a0abb96318146af528f48.png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="https://cdn.kastatic.org/ka-perseus-images/c7052763740cb431d8e989fa55460816cc5a074c.png" alt="" width="375"><figcaption></figcaption></figure>
+#### Krebs Cycle / Citric acid&#x20;
 
 * CO2 & +2ATP&#x20;
 * Acetyl CoA broken down further into citric acid
 * Citric acid is oxidized and energy is used to bind ADP and phosphate to make ATP and electron carriers (NADH & FADH2)
 
-#### Electron Transport Chain&#x20;
+<figure><img src="https://cdn.kastatic.org/ka-perseus-images/c7052763740cb431d8e989fa55460816cc5a074c.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="https://i.ytimg.com/vi/LsRQ5_EmxJA/maxresdefault.jpg" alt="" width="375"><figcaption></figcaption></figure>
+#### Electron Transport Chain&#x20;
 
 * electrons used to create proton gradient to pump protons across membrane&#x20;
 * Chemiosmosis - ATP synthase enzyme creates ATP&#x20;
 * \+34 ATP&#x20;
+
+<figure><img src="https://i.ytimg.com/vi/LsRQ5_EmxJA/maxresdefault.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Other&#x20;
 

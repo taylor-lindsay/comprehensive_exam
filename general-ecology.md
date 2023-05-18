@@ -54,9 +54,7 @@
 * speciation & extinction happen faster on islands&#x20;
 * This theory can apply to habitat fragmentation -> conservation&#x20;
 
-## Neutral Theory & Niche-based alternatives & Null Models&#x20;
-
-#### Intermediate disturbance hypothesis
+#### &#x20;Intermediate disturbance hypothesis
 
 <figure><img src="https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/13317465/hughes_figure1_ksm.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -64,13 +62,20 @@
 * high disturbance kills everything&#x20;
 * medium/intermediate open new niches and allows for new species to establish&#x20;
 
-## keystone species
+#### [Keystone species](https://education.nationalgeographic.org/resource/role-keystone-species-ecosystem/)
 
-* &#x20;
+* an organism without which the entire ecosystem would not exist or would be completely different&#x20;
+* Often either a primary producer or top predator&#x20;
+* Usually control the ecosystem either through engineering or food web dynamics&#x20;
 
-## alternative states
+#### [Alternative stable states](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/10-0378.1)
 
-## competitive exclusion
+* Reefs shift between corals and macrolagae, but because coral takes so long to grow, its pretty unidirectional
+* engineer species determine the structural complexity and food web dynamics of the entire ecosystem&#x20;
+
+<figure><img src=".gitbook/assets/1-s2.0-S0272771418301732-fx1.jpg" alt=""><figcaption></figcaption></figure>
+
+## References
 
 
 
