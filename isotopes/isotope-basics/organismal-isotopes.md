@@ -48,7 +48,7 @@ Trophic fractionation&#x20;
 * ∆13C +0.4 ‰ per trophic level&#x20;
 * ∆15N +3.4 ‰ per trophic level   &#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-12 at 10.30.56 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-12 at 10.30.56 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 N - Protein Cycling&#x20;
 

@@ -1,5 +1,7 @@
 # 4.2 Fractionation in Corals
 
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-16 at 10.39.19 AM.png" alt=""><figcaption></figcaption></figure>
+
 #### Expected values from (<mark style="color:purple;">Ferrier-Pages et al. 2018</mark>)
 
 * Algae and phytoplankton δ13C −20‰ to −18‰
@@ -13,9 +15,9 @@
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-16 at 4.52.29 PM.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-12 at 2.34.25 PM.png" alt=""><figcaption></figcaption></figure>
 
-
-
+![](<../../.gitbook/assets/Screen Shot 2023-05-15 at 4.47.40 PM.png>)
 
 #### Tissue Turnover Rates&#x20;
 

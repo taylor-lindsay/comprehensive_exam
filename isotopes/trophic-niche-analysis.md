@@ -21,8 +21,34 @@ description: '13'
 * Bayseian mixing models & R packages&#x20;
 * Best practices for building a mixing model
 
-
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-12 at 10.30.56 AM.png" alt=""><figcaption></figcaption></figure>
 
 Trophic niche examples:&#x20;
 
-conti-jerpe (lol)&#x20;
+Conti-jerpe 2020
+
+Skinner 2022
+
+Muscatine 1994??
+
+Maier 2010
+
+Fujii 2020
+
+Tremblay 2015
+
+Tanaka 2018
+
+Swart 2005
+
+Radice 2019
+
+Alamaru 2009
+
+Post 2002
+
+Lesser 2010
+
+Chikaraishi 2009
+
+Einbinder 2009
