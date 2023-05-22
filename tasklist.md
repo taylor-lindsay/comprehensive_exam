@@ -57,7 +57,7 @@
 
     4.3   <mark style="color:yellow;">Trophic Niche Analysis</mark>&#x20;
 
-    4.4   <mark style="color:green;">CSIA</mark>
+    4.4   CSIA
 
     &#x20;           4.4a C: Essential vs. Nonessential&#x20;
 

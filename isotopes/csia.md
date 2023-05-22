@@ -80,17 +80,3 @@ Conducted CSIA on fish to determine feeding differences in marine habitats. Foun
 
 CSIA on 7 reef fishes with four C source end members including coral. Determined that CSIA was effective at predicting the C source of the fishes, which often followed expected sources, but often showed that in oceanic sites, there was a shift to planktonic sources.&#x20;
 
-#### <mark style="color:purple;">Treignier 2009</mark>
-
-Quantified the δ13C in fatty acids and sterols of both host and symbionts. Found significant effects of both light availability and food availability. Made some conclusions about de novo synthesis of lipids and how lipids are transferred within the holobiont.&#x20;
-
-#### <mark style="color:purple;">McMahon 2018</mark>
-
-Proteinaceous deep sea corals deposit metabolically inert layers of skeleton (not CaCO3) that reflect the δ13C and δ15N values of the metabolically active polyps. these can be used as a record of historical climate flux because the corals grow for hundreds to thousands of years.&#x20;
-
-#### <mark style="color:purple;">Martinez 2020</mark>
-
-Transplanted corals from mesophotic to shallow (60m - 5m) to quantify CSIA and other photo-physiological metrics. Found that some traits easily acclimated to the shallow environment, but a few remained more similar to mesophotic counterparts. Also made some interesting hypotheses of their CSIA results (no fingerprinting) because the trophic position of both shallow and mesophotic was the same, indicating that light availability does not shift to heterotrophy. Also, the TP of the symbionts was higher than 1, indicating a large amount of sharing/recycling between sym and host.&#x20;
-
-#### <mark style="color:purple;">Martinez 2022</mark>
-
