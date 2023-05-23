@@ -36,7 +36,6 @@
   * [4.1b Environmental O & H](isotopes/isotope-basics/environmental-o-and-h.md)
   * [4.1c Environmental C and N](isotopes/isotope-basics/environmental-c-and-n.md)
   * [4.1d Organismal Isotopes](isotopes/isotope-basics/organismal-isotopes.md)
-  * [4.1e Lipids](4.-isotopes/4.1-isotope-basics/4.1e-lipids.md)
 * [4.2 Fractionation in Corals](isotopes/isotope-basics/fractionation-in-corals.md)
 * [4.3 Trophic Niche Analysis](isotopes/trophic-niche-analysis.md)
 * [4.4 CSIA](isotopes/csia.md)

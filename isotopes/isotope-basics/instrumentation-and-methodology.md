@@ -37,8 +37,38 @@
 
 ## Lipid removal&#x20;
 
+* ∆13C decreases with increasing dietary lipid content&#x20;
+* Lipids have low δ13C values relative to protein
+* Thus variation in tissue δ13C can be driven by variation in % lipid.
+* Lipids typically don't have N&#x20;
 
+Lipid extraction:&#x20;
+
+* chemical solvents extract lipids from tissue&#x20;
+* can bias δ15N values&#x20;
+* Mathematical corrections can also be used in lieu of lipid extraction
+*   For lipid-rich tissue or whole animal samples (e.g., liver or small invertebrates), fats must be
+
+    removed prior to hydrolysis, typically with multi-day solvent rinses. Samples can be soaked in a 2:1 mixture of chloroform:methanol for 72 h, with the solvent changed every 24 h. (<mark style="color:purple;">Whiteman et al. 2019</mark>)
+
+Types:
+
+* Fatty acids - Unsaturated & saturated
+* Cholesterol
+* Wax esters&#x20;
+
+Lipid C routing into NAAs&#x20;
+
+* differential fractionation of the different NAAs because they are created at different points in the citric acid cycle.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Acid Hydrolysis&#x20;
 
-Read McMahon et al. 2011: Briefly, each sample underwent an acid-catalyzed esterification followed by acylation with trifluoroacetic anhydride and dichloromethane under an atmosphere of dinitrogen (N2).
+#### <mark style="color:purple;">McMahon et al. 2011</mark>
+
+Briefly, each sample underwent an acid-catalyzed esterification followed by acylation with trifluoroacetic anhydride and dichloromethane under an atmosphere of dinitrogen (N2).
+
+#### <mark style="color:purple;">Whiteman et al. 2019</mark>
+
+Sample preparation for 13C and 15N analysis vary, but 3 general steps apply: (1) the isolation and purification of protein from other organic compounds within a sample (e.g., lipids, carbohydrates), (2) <mark style="background-color:yellow;">the breakdown of the protein structure via hydrolysis to produce free AA</mark>, and (3) the derivatization of free AA to more volatile forms that can be readily separated via gas chromatography (GC), combusted or pyrolyzed to gas, and analyzed in an isotope ratio mass spectrometer (IRMS)

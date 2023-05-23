@@ -1,6 +1,6 @@
 # 4.2 Fractionation in Corals
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-16 at 10.39.19 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-16 at 10.39.19 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Expected values from (<mark style="color:purple;">Ferrier-Pages et al. 2018</mark>)
 
@@ -13,16 +13,12 @@
 * &#x20;δ15N fractionation in carnivores is usually 3.2‰ ± 0.4‰
 * &#x20;δ15N fractionation from plants to herbivores 2.5‰ ± 2.5‰
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-16 at 4.52.29 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-16 at 4.52.29 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-12 at 2.34.25 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-12 at 2.34.25 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/Screen Shot 2023-05-15 at 4.47.40 PM.png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-15 at 4.47.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Tissue Turnover Rates&#x20;
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-22 at 2.30.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Fractionation to types of tissues
-
-
-
-Hypotheses of how my samples should change&#x20;
+## Tissue Turnover Rates&#x20;
