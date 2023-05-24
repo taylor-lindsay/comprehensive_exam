@@ -46,7 +46,7 @@
 * Linear mixed effects models
   * when there are subgroups that may be affecting the results&#x20;
 
-<figure><img src=".gitbook/assets/Screen Shot 2023-05-23 at 2.11.24 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2023-05-23 at 2.11.24 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -65,6 +65,8 @@ Nested Factors&#x20;
 
 * with multiple random effects nested within each other, where factors only occur within one level&#x20;
   * in R: y \~ color + (color|green/gray) where gray is nested within green&#x20;
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-05-23 at 2.11.24 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Crossed random effects&#x20;
 
@@ -104,7 +106,11 @@ Interpreting results of a linear mixed model fit&#x20;
 
 #### Homoscedasticity&#x20;
 
-* variance o our errors is constant&#x20;
+* variance of errors is constant&#x20;
+* heteroscedasticity - errors change in magnitude as x changes
+  * means that there is some important information in the model that is missed, the model could have a better fit &#x20;
+
+![](.gitbook/assets/RXQv9.png)
 
 ## My Statistical Analyses&#x20;
 
