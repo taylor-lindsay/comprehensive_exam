@@ -41,6 +41,4 @@ description: Most isotope info sourced from URI OCG 550 with Kelton McMahon
   * very temperature dependent&#x20;
 * Turnover time - T&#x20;
 
-## Papers that summarize the use of Isotopes
-
 ####

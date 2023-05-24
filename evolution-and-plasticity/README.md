@@ -117,8 +117,6 @@ Neutral theory of Molecular evolution&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-15 at 9.17.44 AM.png" alt=""><figcaption></figcaption></figure>
 
+## References
 
-
-References
-
-Levis, Isdaner & Pfennig 2018
+#### <mark style="color:purple;">Levis, Isdaner & Pfennig 2018</mark>

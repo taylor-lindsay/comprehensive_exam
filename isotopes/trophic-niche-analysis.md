@@ -23,32 +23,60 @@ description: '13'
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-12 at 10.30.56 AM.png" alt=""><figcaption></figcaption></figure>
 
-Trophic niche examples:&#x20;
+## References
 
-Conti-jerpe 2020
+#### <mark style="color:purple;">Conti-jerpe 2020</mark>
 
-Skinner 2022
+d
 
-Muscatine 1994??
+#### <mark style="color:purple;">Skinner 2022</mark>
 
-Maier 2010
+d
 
-Fujii 2020
+#### <mark style="color:purple;">Muscatine 1994</mark>
 
-Tremblay 2015
+d
 
-Tanaka 2018
+#### <mark style="color:purple;">Maier 2010</mark>
 
-Swart 2005
+d
 
-Radice 2019
+#### <mark style="color:purple;">Fujii 2020</mark>
 
-Alamaru 2009
+d
 
-Post 2002
+#### <mark style="color:purple;">Tremblay 2015</mark>
 
-Lesser 2010
+d
 
-Chikaraishi 2009
+#### <mark style="color:purple;">Tanaka 2018</mark>
 
-Einbinder 2009
+d
+
+#### <mark style="color:purple;">Swart 2005</mark>
+
+d
+
+#### <mark style="color:purple;">Radice 2019</mark>
+
+d
+
+#### <mark style="color:purple;">Alamaru 2009</mark>
+
+d
+
+#### <mark style="color:purple;">Post 2002</mark>
+
+d
+
+#### <mark style="color:purple;">Lesser 2010</mark>
+
+d
+
+#### <mark style="color:purple;">Chikaraishi 2009</mark>
+
+d
+
+#### <mark style="color:purple;">Einbinder 2009</mark>
+
+d
