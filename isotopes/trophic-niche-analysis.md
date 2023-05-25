@@ -80,3 +80,11 @@ d
 #### <mark style="color:purple;">Einbinder 2009</mark>
 
 d
+
+#### <mark style="color:purple;">Price 2021</mark>
+
+The authors conducted four analyses of bulk SIA in seven species of coral to try to quantify the heterotrophy - symbiosis relationship. δ13C and δ15N host-symbiont revealed strong patterns but also exhibited an inverse relationship, where heterotrophy was associated with more negative δ13C values and more positive δ15N values. A SIBER analysis tested overlap of ellipses which did not always follow the expected pattern of host enrichment in both C and N. Bayesian mixing model analysis unraveled the relative contribution of zoop, POM, and DIM (dissolved inorganic matter) which aligned with the first two analyses. Interestingly the SIBER and Bayesian analyses didn't agree. This study emphasized that the use of isotopes may not always reflect hetero- vs autotrophy, but also proportion of resources shared between sym and host, as well as differential allocation of resources.&#x20;
+
+#### <mark style="color:purple;">Sturaro 2021</mark>
+
+Authors analyzed SIA for 6 species of coral under depth, season, and site differences. They found that site and depth had impacts on trophic niche plasticity. Corals fom more variable environments had larger niches for both host and symbiont than from more stable environments. Deeper corals had niches that indicated a higher degree of heterotrophy than shallow corals. No differences found in diet by season. One aposymbiotic coral exhibited a niche that did not overlap with the symbiotic coral, and it had significantly lower δ13C and higher δ15N values than its symbiotic counterparts.&#x20;

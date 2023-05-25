@@ -22,3 +22,29 @@
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-22 at 2.30.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Tissue Turnover Rates&#x20;
+
+tanaka 2018
+
+More than 300 days  for N in coral&#x20;
+
+Tanaka 2006 -&#x20;
+
+20 day turnover time for C in coral tissue and 210 days for N a
+
+symbiont - 8 day for C&#x20;
+
+From Price 2021 - relatively slow N turnover time of 3–12 months in coral tissues (Tanaka et al. 2018; Rangel et al. 2019)
+
+
+
+
+
+Rodrigues & Grottoli, 2006; Tanaka, Suzuki,
+
+& Sakai, 2018; Treignier, Tolosa, Grover, Reynaud, & sa, 2009
+
+Downs, E. E., Popp, B. N., & Holl, C. M. (2014). Nitrogen isotope fractionation
+
+and amino acid turnover rates in the Pacific white shrimp
+
+Litopenaeus vannamei. Marine Ecology Progress Series, 516, 239–250.
