@@ -25,7 +25,7 @@
 
     2.6   <mark style="color:blue;">Mixotrophy & Energy</mark>&#x20;
 
-    2.7   <mark style="color:blue;">Symbiosis</mark>&#x20;
+    2.7   Symbiosis&#x20;
 
     2.8   Reef Mortality&#x20;
 

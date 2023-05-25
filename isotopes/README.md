@@ -41,4 +41,10 @@ description: Most isotope info sourced from URI OCG 550 with Kelton McMahon
   * very temperature dependent&#x20;
 * Turnover time - T&#x20;
 
+References
+
+#### <mark style="color:purple;">McMahon, Hamady & Thorrold 2013</mark>
+
+Provides a thorough background on ecogeochemistry and the uses of isotopes in marine ecosystems.&#x20;
+
 ####
