@@ -23,28 +23,22 @@
 
 ## Tissue Turnover Rates&#x20;
 
-tanaka 2018
+#### <mark style="color:purple;">Tanaka 2018</mark>
 
-More than 300 days  for N in coral&#x20;
+Authors used N and C tracers to determine the turnover rates of symbionts and corals. They found that N turnover was 370 days in the symbionts and 56 days in the host. They also developed detailed energy flow models:&#x20;
 
-Tanaka 2006 -&#x20;
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-26 at 12.12.45 PM (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-20 day turnover time for C in coral tissue and 210 days for N a
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-26 at 12.16.49 PM.png" alt="" width="188"><figcaption></figcaption></figure>
 
-symbiont - 8 day for C&#x20;
+#### <mark style="color:purple;">Tanaka 2006</mark>
 
-From Price 2021 - relatively slow N turnover time of 3–12 months in coral tissues (Tanaka et al. 2018; Rangel et al. 2019)
+Used labeled isotopes to calculate turnover rates:&#x20;
 
+* N host turnover - 210 days
+* N sym turnover - 13 days
+* C host turnover - 18 days
+* C sym turnover - 8.2 days
 
+<mark style="color:purple;">\* see Rangel et al. 2019 if needed</mark>
 
-
-
-Rodrigues & Grottoli, 2006; Tanaka, Suzuki,
-
-& Sakai, 2018; Treignier, Tolosa, Grover, Reynaud, & sa, 2009
-
-Downs, E. E., Popp, B. N., & Holl, C. M. (2014). Nitrogen isotope fractionation
-
-and amino acid turnover rates in the Pacific white shrimp
-
-Litopenaeus vannamei. Marine Ecology Progress Series, 516, 239–250.

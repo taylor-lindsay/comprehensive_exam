@@ -38,7 +38,7 @@
 
     3.3   <mark style="color:red;">Species</mark>
 
-    3.4   <mark style="color:blue;">Cryptic Species</mark>&#x20;
+    3.4   Cryptic Species&#x20;
 4.  **Isotopes**
 
     4.1    Isotope Basics
@@ -51,7 +51,7 @@
 
     &#x20;           4.1d   Organismal Isotope
 
-    4.2   <mark style="color:yellow;">Fractionation in Corals</mark>&#x20;
+    4.2   Fractionation in Corals&#x20;
 
     4.3   <mark style="color:blue;">Trophic Niche Analysis</mark>&#x20;
 

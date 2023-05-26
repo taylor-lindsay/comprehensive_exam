@@ -27,7 +27,9 @@ description: '13'
 
 #### <mark style="color:purple;">Conti-jerpe 2020</mark>
 
-d
+C and N ratios calculated in 7 different species of coral for both host and symbiont. The authors found that the host was usually depleted in C and enriched in N, following our expectations for trophic fractionation. They additionally made some unsubstantiated claims about the relationship between heterotrophy:photosynthesis and morpholgoy and bleaching tolerance. Good example of SIBER analysis comparing the overlap of ellipses.&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-26 at 12.51.30 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### <mark style="color:purple;">Skinner 2022</mark>
 
