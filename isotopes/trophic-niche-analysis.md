@@ -31,10 +31,6 @@ C and N ratios calculated in 7 different species of coral for both host and symb
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-26 at 12.51.30 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### <mark style="color:purple;">Skinner 2022</mark>
-
-d
-
 #### <mark style="color:purple;">Muscatine 1989</mark>
 
 The first study to ever do SIA on separate host and sym. They found that both host and sym decrease δ13C with depth, and that the difference between them (∆C) increased with depth as well. This supports more recent evidence of isotope fractionation in corals. This is a good study to get some basic values if needed. &#x20;
@@ -45,35 +41,31 @@ This was a partner study to Muscatine 1989, (which addressed C) looking at trend
 
 #### <mark style="color:purple;">Maier 2010</mark>
 
-d
+The authors conducted δ13C and δ15N SIA on 3 species along a depth gradient. They found that δ15N and δ13C decreased along a depth gradient, but that ∆C host-sym did not change along the depth gradient. The authors present ideas about DIN limitation in corals, and also propose that δ15N and δ13C values may be representative of potential life strategy where energy is either invested in tissue growth and maintenacne or in fast skeletal growth at the expense of some tissue.&#x20;
+
+#### <mark style="color:purple;">Swart 2005a</mark>
+
+The authors monitored SIA N and C values in host, symbiont, and skeleton over a two year period. (δ15N host +6.6 ‰, sym +4.7 ‰ / δ13C host -13.3 ‰, sym -12.2 ‰, skeleton \~+1.4 ‰). They did not find differences in sites, and only found seasonal variation in C. They also evaluated the effects of sewage and proximity to people on the isotopes and did not find any patterns.
 
 #### <mark style="color:purple;">Tremblay 2015</mark>
 
-d
+#### <mark style="color:purple;">Skinner 2022</mark>
 
-#### <mark style="color:purple;">Swart 2005</mark>
-
-d
+#### <mark style="color:purple;">Swart 2005b</mark>
 
 #### <mark style="color:purple;">Radice 2019</mark>
 
-d
-
-#### <mark style="color:purple;">Alamaru 2009</mark>
-
-d
-
-#### <mark style="color:purple;">Post 2002</mark>
-
-d
-
 #### <mark style="color:purple;">Lesser 2010</mark>
-
-d
 
 #### <mark style="color:purple;">Chikaraishi 2009</mark>
 
-d
+#### <mark style="color:purple;">Alamaru 2009</mark>
+
+Authors investigated SIA C and N in two morphologically different species of coral (one branching w/ small polyps, other massive w/ large polyps) and were the first to quantify the SIA of lipids for both fractions. They found δ13C decreases for sym and host and in both lipids by 7-8 ‰ across the light gradient, espeically when compared to photosynthesis. δ15N did not change much across the depth gradient. Generally, lipids were δ13C depleted by  -3.5 ‰ compared to their host. Morphological differences that led to feeding strategy differences were associated with isotope enrichment. C:N decreases with depth, possibly reflecting a reduction in the lipid storage at depth.&#x20;
+
+#### <mark style="color:purple;">Post 2002</mark>
+
+This paper presents the best methods for assessing trophic level and determining baseline/end member isotope values. They give equations and assumptions for different TP models. Their work is based on snails and mussels in lakes.&#x20;
 
 #### <mark style="color:purple;">Einbinder 2009</mark>
 
