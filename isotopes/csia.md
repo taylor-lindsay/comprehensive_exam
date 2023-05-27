@@ -32,6 +32,15 @@ CSIA
 
 #### Examples of CSIA on corals&#x20;
 
+#### <mark style="color:purple;">Fujii 2020</mark>
+
+The authors investigated CSIA (N only) and SIA at multiple sites, multiple species, and multiple seasons. Their conclusions were:&#x20;
+
+1. C:N ratios are species specific and not sensitive to environmental change
+2. δ13C driven by isotope fractionation during DIC uptake and are likely related to morphology, season and habitat
+3. δ15N reflect the DIN values and varied based on reef-scale polluion gradients
+4. heterotrophy of corals causes shifts in C and N, but we need more info to make appropriate models.
+
 #### <mark style="color:purple;">Treignier 2009</mark>
 
 Quantified the δ13C in fatty acids and sterols of both host and symbionts. Found significant effects of both light availability and food availability. Made some conclusions about de novo synthesis of lipids and how lipids are transferred within the holobiont.&#x20;

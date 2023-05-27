@@ -43,11 +43,7 @@ The first study to ever do SIA on separate host and sym. They found that both ho
 
 This was a partner study to Muscatine 1989, (which addressed C) looking at trends in δ15N over depth. They did not find changes in δ15N across depth gradients, but did find the expected results that symbionts had lower δ15N values than the host because of trophic fractionation (although they did not understand WHY at all). Good study to get N values if needed. &#x20;
 
-<mark style="color:purple;">Maier 2010</mark>
-
-d
-
-#### <mark style="color:purple;">Fujii 2020</mark>
+#### <mark style="color:purple;">Maier 2010</mark>
 
 d
 
@@ -81,7 +77,7 @@ d
 
 #### <mark style="color:purple;">Einbinder 2009</mark>
 
-d
+The authors investigated depth related changes in δ13C and morphology. They found that the highly branching species S. pistilatta shifted from a hemispherical shaped colony to a more platelike colony shape with depth, and smaller colonies in deep environments. The δ13C of the host coral tissue changed from a value of –15‰ in shallow water to –23‰ at the deep reef. The ∆C host-sym change from 0-30m but then remained constant from 30-60m.&#x20;
 
 #### <mark style="color:purple;">Price 2021</mark>
 
