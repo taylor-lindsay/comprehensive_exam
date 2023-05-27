@@ -35,11 +35,15 @@ C and N ratios calculated in 7 different species of coral for both host and symb
 
 d
 
+#### <mark style="color:purple;">Muscatine 1989</mark>
+
+The first study to ever do SIA on separate host and sym. They found that both host and sym decrease δ13C with depth, and that the difference between them (∆C) increased with depth as well. This supports more recent evidence of isotope fractionation in corals. This is a good study to get some basic values if needed. &#x20;
+
 #### <mark style="color:purple;">Muscatine 1994</mark>
 
-d
+This was a partner study to Muscatine 1989, (which addressed C) looking at trends in δ15N over depth. They did not find changes in δ15N across depth gradients, but did find the expected results that symbionts had lower δ15N values than the host because of trophic fractionation (although they did not understand WHY at all). Good study to get N values if needed. &#x20;
 
-#### <mark style="color:purple;">Maier 2010</mark>
+<mark style="color:purple;">Maier 2010</mark>
 
 d
 
@@ -48,10 +52,6 @@ d
 d
 
 #### <mark style="color:purple;">Tremblay 2015</mark>
-
-d
-
-#### <mark style="color:purple;">Tanaka 2018</mark>
 
 d
 

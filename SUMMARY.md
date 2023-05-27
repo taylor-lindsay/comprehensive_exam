@@ -19,9 +19,9 @@
 * [2.5 Physiology](2.-coral-biology/2.5-physiology.md)
 * [2.6 Mixotrophy & Energy](2.-coral-biology/2.6-mixotrophy-and-energy.md)
 * [2.7 Symbiosis](2.-coral-biology/2.7-symbiosis.md)
-* [My Species](2.-coral-biology/my-species.md)
 * [2.8 Reef Mortality](2.-coral-biology/2.8-reef-mortality/README.md)
   * [2.8a Conservation](2.-coral-biology/2.8-reef-mortality/2.8a-conservation.md)
+* [2.9 My Species](2.-coral-biology/2.9-my-species.md)
 
 ## 3. Ecology & Evolution
 

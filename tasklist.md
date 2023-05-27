@@ -23,13 +23,15 @@
 
     2.5   <mark style="color:yellow;">Physiology</mark>&#x20;
 
-    2.6   <mark style="color:blue;">Mixotrophy & Energy</mark>&#x20;
+    2.6   Mixotrophy & Energy&#x20;
 
     2.7   Symbiosis&#x20;
 
     2.8   Reef Mortality&#x20;
 
     &#x20;           2.8a   Conservation&#x20;
+
+    2.9   <mark style="color:yellow;">My species</mark>&#x20;
 3.  **Ecology & Evolution**
 
     3.1    Evolution & Plasticity&#x20;
@@ -53,7 +55,7 @@
 
     4.2   Fractionation in Corals&#x20;
 
-    4.3   <mark style="color:blue;">Trophic Niche Analysis</mark>&#x20;
+    4.3   <mark style="color:green;">Trophic Niche Analysis</mark>&#x20;
 
     4.4   CSIA
 
