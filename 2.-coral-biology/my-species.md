@@ -1,0 +1,18 @@
+# 2.9 My Species
+
+MCAV&#x20;
+
+gonochoric broadcast spawning species with an annual cycle of gametogenesis (Budd et al. 2012)
+
+2 morphs - different polyp size and feeding behavior (one is heterotrophically noctournal), differeed by depth&#x20;
+
+
+
+
+
+<table><thead><tr><th width="151"></th><th width="108">MCAV</th><th>OFAV</th><th>OFRA</th><th>PPOR</th><th>PAST</th><th>AAGA</th><th>CNAT</th></tr></thead><tbody><tr><td>Morphology</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Reproduction</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ICUN</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+
+
