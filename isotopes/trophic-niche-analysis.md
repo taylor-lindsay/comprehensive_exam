@@ -47,18 +47,6 @@ The authors conducted δ13C and δ15N SIA on 3 species along a depth gradient. T
 
 The authors monitored SIA N and C values in host, symbiont, and skeleton over a two year period. (δ15N host +6.6 ‰, sym +4.7 ‰ / δ13C host -13.3 ‰, sym -12.2 ‰, skeleton \~+1.4 ‰). They did not find differences in sites, and only found seasonal variation in C. They also evaluated the effects of sewage and proximity to people on the isotopes and did not find any patterns.
 
-#### <mark style="color:purple;">Tremblay 2015</mark>
-
-#### <mark style="color:purple;">Skinner 2022</mark>
-
-#### <mark style="color:purple;">Swart 2005b</mark>
-
-#### <mark style="color:purple;">Radice 2019</mark>
-
-#### <mark style="color:purple;">Lesser 2010</mark>
-
-#### <mark style="color:purple;">Chikaraishi 2009</mark>
-
 #### <mark style="color:purple;">Alamaru 2009</mark>
 
 Authors investigated SIA C and N in two morphologically different species of coral (one branching w/ small polyps, other massive w/ large polyps) and were the first to quantify the SIA of lipids for both fractions. They found δ13C decreases for sym and host and in both lipids by 7-8 ‰ across the light gradient, espeically when compared to photosynthesis. δ15N did not change much across the depth gradient. Generally, lipids were δ13C depleted by  -3.5 ‰ compared to their host. Morphological differences that led to feeding strategy differences were associated with isotope enrichment. C:N decreases with depth, possibly reflecting a reduction in the lipid storage at depth.&#x20;
@@ -78,3 +66,15 @@ The authors conducted four analyses of bulk SIA in seven species of coral to try
 #### <mark style="color:purple;">Sturaro 2021</mark>
 
 Authors analyzed SIA for 6 species of coral under depth, season, and site differences. They found that site and depth had impacts on trophic niche plasticity. Corals fom more variable environments had larger niches for both host and symbiont than from more stable environments. Deeper corals had niches that indicated a higher degree of heterotrophy than shallow corals. No differences found in diet by season. One aposymbiotic coral exhibited a niche that did not overlap with the symbiotic coral, and it had significantly lower δ13C and higher δ15N values than its symbiotic counterparts.&#x20;
+
+#### <mark style="color:purple;">Tremblay 2015</mark>
+
+#### <mark style="color:purple;">Skinner 2022</mark>
+
+#### <mark style="color:purple;">Swart 2005b</mark>
+
+#### <mark style="color:purple;">Radice 2019</mark>
+
+#### <mark style="color:purple;">Lesser 2010</mark>
+
+#### <mark style="color:purple;">Chikaraishi 2009</mark>
