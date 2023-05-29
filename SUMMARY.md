@@ -47,7 +47,7 @@
 
 * [5.1 Science & Society](science-and-society.md)
 * [5.2 Stats](stats.md)
-* [5.3 Practice Questions](5.-other/5.3-practice-questions.md)
+* [5.3 Orals Practice Questions](5.-other/5.3-orals-practice-questions.md)
 
 ## 6. Summary & Resources
 

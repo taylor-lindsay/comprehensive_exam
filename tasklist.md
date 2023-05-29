@@ -64,11 +64,11 @@
     &#x20;           4.4b N: Trophic vs. Source&#x20;
 5.  **Other**
 
-    5.1     <mark style="color:yellow;">Science & Society</mark>&#x20;
+    5.1     Science & Society&#x20;
 
-    5.2    <mark style="color:yellow;">Stats</mark>
+    5.2    Stats
 
-    5.3    <mark style="color:red;">Practice Questions</mark> &#x20;
+    5.3    <mark style="color:red;">Orals Practice Questions</mark> &#x20;
 6.  **Summary & Resources**&#x20;
 
     6.1    Glossary&#x20;
@@ -88,7 +88,7 @@ Tasks&#x20;
 * [x] Meet with Kelton
 * [ ] Compile past exams for reference&#x20;
 * [x] Book Rooms
-* [ ] Meet with Melva&#x20;
+* [x] Meet with Melva&#x20;
 * [x] Have Carlos send out reminder
 * [ ] Orals Vocab list&#x20;
 * [ ] Add Questions from exam
