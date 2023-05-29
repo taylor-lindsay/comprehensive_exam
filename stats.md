@@ -114,12 +114,102 @@ Interpreting results of a linear mixed model fit&#x20;
 
 ## My Statistical Analyses&#x20;
 
-Baysian Mixing models&#x20;
+#### [Testing for normality](https://towardsdatascience.com/6-ways-to-test-for-a-normal-distribution-which-one-to-use-9dcf47d8fa93)&#x20;
 
+* &#x20;Shapiro-wilks test
+  * shapiro.test(mydata$Detatchment.Force..g.) #p=.2685&#x20;
+  * If P>0.05, then the data is normal
+* Histogram
 
+<figure><img src=".gitbook/assets/Screen Shot 2023-05-29 at 9.46.23 AM (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
-Mixed effects models Zurr 2009
+* Q-Q plot&#x20;
 
-*
-* [https://www.youtube.com/watch?v=QCqF-2E86r0\&ab\_channel=MatthewE.Clapham](https://www.youtube.com/watch?v=QCqF-2E86r0\&ab\_channel=MatthewE.Clapham)
+<figure><img src=".gitbook/assets/Screen Shot 2023-05-29 at 9.46.12 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Testing for Homogeneity of variance / homoscedasticity&#x20;
+
+* &#x20;[Bartlett Test ](https://link.springer.com/referenceworkentry/10.1007/978-3-642-04898-2\_132)- Homogeneity of variance test
+* bartlett.test(Detatchment.Force..g.\~Condition, data=mydata) #p=.6505&#x20;
+* If P>0.05, then variances are equal ##box plots can serve as a good visual for this&#x20;
+
+#### Removing outliers
+
+* z-score: a statistical measurement of a score's relationship to the mean in a group of scores
+  * z\_scores <- (data-mean(data))/sd(data)
+  * z-score greater than 3 is dropped&#x20;
+
+### Ch1&#x20;
+
+"Each species will be analyzed using a three-way ANOVA (Species (7) x Depth (4) x Site(2)) to test for interactions between species and depth."&#x20;
+
+#### 3-way ANOVA
+
+* Tests all the following models, produces a p-value for each&#x20;
+  * Site
+  * Depth
+  * Species
+  * Site\*Species
+  * Site\*Depth
+  * Depth\*Species&#x20;
+  * Site\*Species\*Depth&#x20;
+
+### Ch2
+
+"The difference of the same-genotype pairs (one from a control cage and one from a treatment cage) will be calculated and used for all statistical analyses. Genotype will be treated as an unreplicated block and each of the three sets of genotypes will be analyzed using an ANOVA to compare treatments. Because this analysis only considers samples that survived transplantation, a Fisher’s Exact Test will be used to assess survivorship."
+
+#### ANOVA with unreplicated block
+
+* The cages are unreplicated - they may have caused variation unrelated to the treatment, but because we don't have replicates, we won't know if any of the cages had effects. We can't separate cage effects from treatment effects
+* Genotype is also unreplicated - we only have one replicate of each genotype, so each genotype is technically treated as a block&#x20;
+* ANOVA - Analysis of Variance&#x20;
+  * used on non-binary groups
+  * similar to a regression but uses a categorical variable to predict a quantitative one (instead of two quantitative)&#x20;
+  * f-statistic - compares how much variation the model accounts for vs. how much it can't account for&#x20;
+    * just tells you if SOMETHING is statistically different
+    * followed up with multiple t-tests to get p-values  &#x20;
+
+#### [Fisher's Exact Test](https://link.springer.com/referenceworkentry/10.1007/978-3-642-04898-2\_253)&#x20;
+
+* 2 x 2 - 2 conditions, 2 outcomes&#x20;
+* calculates the probability of observed data&#x20;
+
+#### [Reaction Norms](https://www.oxfordbibliographies.com/display/document/obo-9780199941728/obo-9780199941728-0130.xml)
+
+* the range of phenotypes expressed by a genotype along an environmental gradient
+* closely related to phenotypic plasticity&#x20;
+* consists of offset or intercept which describes the mean in each environment, the slope, and the shape or curvature (linear, quadratic, etc.)&#x20;
+
+![](.gitbook/assets/Conceptual-graphic-presentation-of-reaction-norms-phenotypic-expressions-across.jpg)
+
+### Ch3
+
+"3-way ANOVA models (morph x treatment x tray) will be created using a planned-comparisons test (emmeans R package) focused on comparing the shaded and deep treatments with the control. PCA plots will be used to visualize the strength of treatment, Apo or Sym categorization, and caging effects."
+
+#### Planned-comparisons test
+
+* focus on scientifically relevant comparisons rather than all comparisons
+* opposite of post-hoc tests&#x20;
+
+#### [Principle component analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
+* dimensionality reduction method&#x20;
+* 1- standardization&#x20;
+* 2- covariance matrix computation
+* 3- compute values from the matrix to determine PCs&#x20;
+* [resource 2](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)&#x20;
+
+#### [SIBER Analysis](https://cran.r-project.org/web/packages/SIBER/vignettes/Introduction-to-SIBER.html)
+
+* compares isotopic niche widths
+* isotope scatterplots w/ ellipses - standard is 40%&#x20;
+* Bayseian analysis&#x20;
+* SEA - Standard ellipse area&#x20;
+
+#### [Bayesian Mixing Model (MIXSAIR)](https://brianstock.github.io/mixingmodels/)&#x20;
+
+* statistical tools that use biotracers to estimate contributions of sources to a mixture&#x20;
+  * sources = prey, mixture = consumer
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-05-29 at 11.01.26 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
