@@ -19,7 +19,7 @@
 
     2.3   Growth & Reproduction&#x20;
 
-    2.4   <mark style="color:blue;">Morphology</mark>&#x20;
+    2.4   Morphology&#x20;
 
     2.5   <mark style="color:yellow;">Physiology</mark>&#x20;
 
@@ -29,7 +29,7 @@
 
     2.8   Reef Mortality&#x20;
 
-    &#x20;           2.8a   Conservation &#x20;
+    &#x20;           2.8a   Conservation&#x20;
 3.  **Ecology & Evolution**
 
     3.1    Evolution & Plasticity&#x20;
@@ -64,9 +64,9 @@
 
     5.1     Science & Society&#x20;
 
-    5.2    Stats
+    5.2    <mark style="color:yellow;">Stats</mark>
 
-    5.3    <mark style="color:red;">Orals Practice Questions</mark> &#x20;
+    5.3    <mark style="color:red;">Practice Questions</mark> &#x20;
 6.  **Summary & Resources**&#x20;
 
     6.1    Glossary&#x20;
