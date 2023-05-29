@@ -29,9 +29,7 @@
 
     2.8   Reef Mortality&#x20;
 
-    &#x20;           2.8a   Conservation&#x20;
-
-    2.9   <mark style="color:yellow;">My species</mark>&#x20;
+    &#x20;           2.8a   Conservation &#x20;
 3.  **Ecology & Evolution**
 
     3.1    Evolution & Plasticity&#x20;
