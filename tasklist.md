@@ -1,6 +1,6 @@
 # Tasklist
 
-<mark style="color:red;">Not Started</mark> -> <mark style="color:yellow;">In Progress</mark> -> <mark style="color:blue;">Done Basics</mark> -> <mark style="color:green;">Done Papers</mark> -> All set&#x20;
+<mark style="color:red;">Not Started</mark> -> <mark style="color:yellow;">In Progress</mark> -> <mark style="color:blue;">Done Basics</mark> -> <mark style="color:green;">Reading Papers</mark> -> All set&#x20;
 
 1.  **Basics**
 
@@ -19,7 +19,7 @@
 
     2.3   Growth & Reproduction&#x20;
 
-    2.4   Morphology&#x20;
+    2.4   <mark style="color:green;">Morphology</mark>&#x20;
 
     2.5   <mark style="color:yellow;">Physiology</mark>&#x20;
 
@@ -36,7 +36,7 @@
 
     3.2   General Ecology&#x20;
 
-    3.3   <mark style="color:red;">Species</mark>
+    3.3   Species
 
     3.4   Cryptic Species&#x20;
 4.  **Isotopes**
@@ -64,7 +64,7 @@
 
     5.1     Science & Society&#x20;
 
-    5.2    <mark style="color:yellow;">Stats</mark>
+    5.2    Stats
 
     5.3    <mark style="color:red;">Practice Questions</mark> &#x20;
 6.  **Summary & Resources**&#x20;
