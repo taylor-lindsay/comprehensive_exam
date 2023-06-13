@@ -59,9 +59,13 @@ Types:
 
 Lipid C routing into NAAs&#x20;
 
-* differential fractionation of the different NAAs because they are created at different points in the citric acid cycle.&#x20;
+* differential fractionation of the different NAAs because they are created at different points in the metabolic cycle
+  * Glycolysis
+  * Citric Acid Cycle&#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Amino_acid_biosynthesis_overview.png" alt=""><figcaption></figcaption></figure>
 
 ## Acid Hydrolysis&#x20;
 

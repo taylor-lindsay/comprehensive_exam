@@ -16,6 +16,7 @@ description: '13'
 * Mass balance mixing models:&#x20;
   * need δ values for consumer,  all diet sources, and the trophic fractionation ∆ between diet & consumer&#x20;
 * Trophic discrimination factors (TDF)&#x20;
+  * ∆ = δ tissue - δ source  &#x20;
   * source mixing polygon has to overlap all the consumer values, otherwise you've missed a source.&#x20;
   * for every additional source, you need an additional isotope&#x20;
 * Bayseian mixing models & R packages&#x20;

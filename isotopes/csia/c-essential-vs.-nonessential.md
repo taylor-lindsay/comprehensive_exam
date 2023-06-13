@@ -9,7 +9,7 @@ description: '15'
 What differentiates EAAs from NEAAs?&#x20;
 
 * essential amino acids take additional steps to synthesize&#x20;
-*
+* essential amino acids have a complex r group sidechain (see red above)&#x20;
 
 Essential amino acids (EAAs)
 
@@ -28,5 +28,6 @@ Nonessential amino acids (NAAs)&#x20;
 Amino Acid C isotope fingerprinting&#x20;
 
 * every source that can synthesize EAAs leaves a specific  fingerprint, or ratio, of the EAAs based on the biosynthetic pathways involved in making the EAAs&#x20;
+  *
 * Currently very broad - because most plants use the same pathways, we group them all together.&#x20;
 * End members will have very specific fingerprints that can be seen to segregate using a PCA&#x20;
