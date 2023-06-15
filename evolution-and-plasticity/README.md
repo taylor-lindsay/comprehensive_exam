@@ -117,6 +117,15 @@ Neutral theory of Molecular evolution&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-15 at 9.17.44 AM.png" alt=""><figcaption></figcaption></figure>
 
+## Notes after Written comps:
+
+* Epigenetic inheritance - goes against the traditional idea that only DNA nucleotide changes are heritable - a parent's experiences in the form of epigenetic tags can be passed to offspring&#x20;
+* Reciprocal transplants can test for adaptation by quantifying survivorship when transplanted to a new environment.&#x20;
+  * Immigrant inviability - when organisms are locally adapted, immigration to the 'wrong' environment results in mortality.&#x20;
+* Adaptive traits are traits, regardless if they correlate with specific genotypes - focus on the trait which is what is ecologically relevant and measurable&#x20;
+
+##
+
 ## References
 
 #### <mark style="color:purple;">Levis, Isdaner & Pfennig 2018</mark>

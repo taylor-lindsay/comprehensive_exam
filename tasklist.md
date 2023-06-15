@@ -21,7 +21,7 @@
 
     2.4   <mark style="color:green;">Morphology</mark>&#x20;
 
-    2.5   <mark style="color:yellow;">Physiology</mark>&#x20;
+    2.5   <mark style="color:green;">Physiology</mark>&#x20;
 
     2.6   Mixotrophy & Energy&#x20;
 
@@ -65,8 +65,6 @@
     5.1     Science & Society&#x20;
 
     5.2    Stats
-
-    5.3    <mark style="color:red;">Practice Questions</mark> &#x20;
 6.  **Summary & Resources**&#x20;
 
     6.1    Glossary&#x20;
@@ -84,9 +82,9 @@ Tasks&#x20;
 * [x] Meet with Graham
 * [x] Meet with Carlos
 * [x] Meet with Kelton
-* [ ] Compile past exams for reference&#x20;
+* [x] Compile past exams for reference&#x20;
 * [x] Book Rooms
 * [x] Meet with Melva&#x20;
 * [x] Have Carlos send out reminder
-* [ ] Orals Vocab list&#x20;
-* [ ] Add Questions from exam
+* [x] Orals Vocab list&#x20;
+* [x] Add Questions from exam
